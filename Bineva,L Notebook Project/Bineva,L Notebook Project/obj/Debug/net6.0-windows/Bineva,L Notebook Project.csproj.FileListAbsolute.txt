@@ -1,0 +1,28 @@
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\bin\Debug\net6.0-windows\Bineva,L Notebook Project.exe
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\bin\Debug\net6.0-windows\Bineva,L Notebook Project.deps.json
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\bin\Debug\net6.0-windows\Bineva,L Notebook Project.runtimeconfig.json
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\bin\Debug\net6.0-windows\Bineva,L Notebook Project.dll
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\bin\Debug\net6.0-windows\Bineva,L Notebook Project.pdb
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\obj\Debug\net6.0-windows\Bineva_L_Notebook_Project.Form1.resources
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\obj\Debug\net6.0-windows\Bineva_L_Notebook_Project.Properties.Resources.resources
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\obj\Debug\net6.0-windows\Bineva,L Notebook Project.csproj.GenerateResource.cache
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\obj\Debug\net6.0-windows\Bineva,L Notebook Project.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\obj\Debug\net6.0-windows\Bineva,L Notebook Project.AssemblyInfoInputs.cache
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\obj\Debug\net6.0-windows\Bineva,L Notebook Project.AssemblyInfo.cs
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\obj\Debug\net6.0-windows\Bineva,L Notebook Project.csproj.CoreCompileInputs.cache
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\obj\Debug\net6.0-windows\Bineva,L Notebook Project.dll
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\obj\Debug\net6.0-windows\refint\Bineva,L Notebook Project.dll
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\obj\Debug\net6.0-windows\Bineva,L Notebook Project.pdb
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\obj\Debug\net6.0-windows\Bineva,L Notebook Project.genruntimeconfig.cache
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\obj\Debug\net6.0-windows\ref\Bineva,L Notebook Project.dll
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\obj\Debug\net6.0-windows\Bineva_L_Notebook_Project.Form2.resources
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\obj\Debug\net6.0-windows\Bineva,L Notebook Project.csproj.AssemblyReference.cache
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\obj\Debug\net6.0-windows\Bineva,L Notebook Project.csproj.CopyComplete
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\obj\Debug\net6.0-windows\Bineva_L_Notebook_Project.Form3.resources
+H:\Programing M5\Bineva,L Notebook Project\Bineva,L Notebook Project\obj\Debug\net6.0-windows\Bineva_L_Notebook_Project.Form4.resources
